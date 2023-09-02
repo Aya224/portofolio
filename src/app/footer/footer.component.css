@@ -1,0 +1,23 @@
+.container{
+    margin-top: 50px;
+    background-color:  #212121;
+}
+h1{
+    color: antiquewhite;
+}
+button{
+    margin-top: 60px;
+}
+.nav li {
+    border-left: 1px solid #ccc;
+    background-color: transparent;
+    margin-left: 0.5rem;
+    margin-top: 30px;
+    
+  }
+  i{
+    padding: 30px;
+  }
+  p{
+    color: white;
+  }
